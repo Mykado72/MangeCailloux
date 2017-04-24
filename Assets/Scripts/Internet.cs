@@ -8,6 +8,7 @@ using System.IO;
 public class Internet : MonoBehaviour {
 
     public static Internet internetInstance; // Singelton.
+	public bool bTestUpdate;
     public static string adress = "http://sokobancoon.esy.es/";
     public bool bTestLocal;
     public bool bFinished;
@@ -41,7 +42,8 @@ public class Internet : MonoBehaviour {
         {
             internetInstance = this;
             DontDestroyOnLoad(gameObject);
-            TestIfIsLastVersion(); // Test de la version au lancement de l'application
+			if (bTestUpdate==true)
+				TestIfIsLastVersion(); // Test de la version au lancement de l'application
         }
         
     }
