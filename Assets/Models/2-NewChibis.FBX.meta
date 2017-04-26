@@ -1,0 +1,2595 @@
+fileFormatVersion: 2
+guid: d16d319da50af924493d9a2390c88568
+timeCreated: 1474055623
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chibis
+    100004: Chibis 1
+    100006: Chibis Head
+    100008: Chibis L Calf
+    100010: Chibis L Clavicle
+    100012: Chibis L Finger0
+    100014: Chibis L Finger01
+    100016: Chibis L Finger1
+    100018: Chibis L Finger11
+    100020: Chibis L Finger2
+    100022: Chibis L Finger21
+    100024: Chibis L Finger3
+    100026: Chibis L Finger31
+    100028: Chibis L Foot
+    100030: Chibis L Forearm
+    100032: Chibis L Hand
+    100034: Chibis L Thigh
+    100036: Chibis L Toe0
+    100038: Chibis L UpperArm
+    100040: Chibis Neck
+    100042: Chibis Pelvis
+    100044: Chibis R Calf
+    100046: Chibis R Clavicle
+    100048: Chibis R Finger0
+    100050: Chibis R Finger01
+    100052: Chibis R Finger1
+    100054: Chibis R Finger11
+    100056: Chibis R Finger2
+    100058: Chibis R Finger21
+    100060: Chibis R Finger3
+    100062: Chibis R Finger31
+    100064: Chibis R Foot
+    100066: Chibis R Forearm
+    100068: Chibis R Hand
+    100070: Chibis R Thigh
+    100072: Chibis R Toe0
+    100074: Chibis R UpperArm
+    100076: Chibis Spine
+    100078: Chibis Spine1
+    100080: Chibis Tail
+    100082: Chibis Tail1
+    100084: Chibis Tail2
+    100086: Chibis Tail3
+    100088: Chibis_Bouche
+    100090: Chibis_Chapeau
+    100092: Chibis_Master
+    100094: Chibis_Oeil_D
+    100096: Chibis_Oeil_G
+    100098: Chibis_PaupiereB_D
+    100100: Chibis_PaupiereB_G
+    100102: Chibis_PaupiereH_D
+    100104: Chibis_PaupiereH_G
+    100106: Chibis_Position
+    100108: Chibis_Sac
+    100110: Chibis_Sangle0_D
+    100112: Chibis_Sangle0_G
+    100114: Chibis_Sangle1_D
+    100116: Chibis_Sangle1_G
+    100118: Chibis_Sangle2_D
+    100120: Chibis_Sangle2_G
+    100122: Cylinder001
+    100124: Chibis_Machoire
+    100126: Chibis_Paupiere_DB
+    100128: Chibis_Paupiere_DH
+    100130: Chibis_Paupiere_GB
+    100132: Chibis_Paupiere_GH
+    100134: Raton
+    100136: Raton 1
+    100138: Raton Head
+    100140: Raton L Calf
+    100142: Raton L Clavicle
+    100144: Raton L Finger0
+    100146: Raton L Finger01
+    100148: Raton L Finger1
+    100150: Raton L Finger11
+    100152: Raton L Finger2
+    100154: Raton L Finger21
+    100156: Raton L Finger3
+    100158: Raton L Finger31
+    100160: Raton L Foot
+    100162: Raton L Forearm
+    100164: Raton L Hand
+    100166: Raton L Thigh
+    100168: Raton L Toe0
+    100170: Raton L UpperArm
+    100172: Raton Neck
+    100174: Raton Pelvis
+    100176: Raton R Calf
+    100178: Raton R Clavicle
+    100180: Raton R Finger0
+    100182: Raton R Finger01
+    100184: Raton R Finger1
+    100186: Raton R Finger11
+    100188: Raton R Finger2
+    100190: Raton R Finger21
+    100192: Raton R Finger3
+    100194: Raton R Finger31
+    100196: Raton R Foot
+    100198: Raton R Forearm
+    100200: Raton R Hand
+    100202: Raton R Thigh
+    100204: Raton R Toe0
+    100206: Raton R UpperArm
+    100208: Raton Spine
+    100210: Raton Spine1
+    100212: Raton Tail
+    100214: Raton Tail1
+    100216: Raton Tail2
+    100218: Raton Tail3
+    100220: Raton_Bandouillere_1
+    100222: Raton_Bandouillere_2
+    100224: Raton_Chapeau
+    100226: Raton_Master
+    100228: Raton_Position
+    100230: Raton_Sac_1
+    100232: Raton_Sac_2
+    100234: Raton_LarmeA0
+    100236: Raton_LarmeA1
+    100238: Raton_LarmeA2
+    100240: Raton_LarmeB0
+    100242: Raton_LarmeB1
+    100244: Raton_LarmeB2
+    100246: Raton_LarmeOsM
+    100248: Raton_Larmes
+    100250: Raton_Marteau
+    100252: Raton_OsMarteau
+    100254: Raton_OBJMarteau
+    100256: Point001
+    400000: //RootNode
+    400002: Chibis
+    400004: Chibis 1
+    400006: Chibis Head
+    400008: Chibis L Calf
+    400010: Chibis L Clavicle
+    400012: Chibis L Finger0
+    400014: Chibis L Finger01
+    400016: Chibis L Finger1
+    400018: Chibis L Finger11
+    400020: Chibis L Finger2
+    400022: Chibis L Finger21
+    400024: Chibis L Finger3
+    400026: Chibis L Finger31
+    400028: Chibis L Foot
+    400030: Chibis L Forearm
+    400032: Chibis L Hand
+    400034: Chibis L Thigh
+    400036: Chibis L Toe0
+    400038: Chibis L UpperArm
+    400040: Chibis Neck
+    400042: Chibis Pelvis
+    400044: Chibis R Calf
+    400046: Chibis R Clavicle
+    400048: Chibis R Finger0
+    400050: Chibis R Finger01
+    400052: Chibis R Finger1
+    400054: Chibis R Finger11
+    400056: Chibis R Finger2
+    400058: Chibis R Finger21
+    400060: Chibis R Finger3
+    400062: Chibis R Finger31
+    400064: Chibis R Foot
+    400066: Chibis R Forearm
+    400068: Chibis R Hand
+    400070: Chibis R Thigh
+    400072: Chibis R Toe0
+    400074: Chibis R UpperArm
+    400076: Chibis Spine
+    400078: Chibis Spine1
+    400080: Chibis Tail
+    400082: Chibis Tail1
+    400084: Chibis Tail2
+    400086: Chibis Tail3
+    400088: Chibis_Bouche
+    400090: Chibis_Chapeau
+    400092: Chibis_Master
+    400094: Chibis_Oeil_D
+    400096: Chibis_Oeil_G
+    400098: Chibis_PaupiereB_D
+    400100: Chibis_PaupiereB_G
+    400102: Chibis_PaupiereH_D
+    400104: Chibis_PaupiereH_G
+    400106: Chibis_Position
+    400108: Chibis_Sac
+    400110: Chibis_Sangle0_D
+    400112: Chibis_Sangle0_G
+    400114: Chibis_Sangle1_D
+    400116: Chibis_Sangle1_G
+    400118: Chibis_Sangle2_D
+    400120: Chibis_Sangle2_G
+    400122: Cylinder001
+    400124: Chibis_Machoire
+    400126: Chibis_Paupiere_DB
+    400128: Chibis_Paupiere_DH
+    400130: Chibis_Paupiere_GB
+    400132: Chibis_Paupiere_GH
+    400134: Raton
+    400136: Raton 1
+    400138: Raton Head
+    400140: Raton L Calf
+    400142: Raton L Clavicle
+    400144: Raton L Finger0
+    400146: Raton L Finger01
+    400148: Raton L Finger1
+    400150: Raton L Finger11
+    400152: Raton L Finger2
+    400154: Raton L Finger21
+    400156: Raton L Finger3
+    400158: Raton L Finger31
+    400160: Raton L Foot
+    400162: Raton L Forearm
+    400164: Raton L Hand
+    400166: Raton L Thigh
+    400168: Raton L Toe0
+    400170: Raton L UpperArm
+    400172: Raton Neck
+    400174: Raton Pelvis
+    400176: Raton R Calf
+    400178: Raton R Clavicle
+    400180: Raton R Finger0
+    400182: Raton R Finger01
+    400184: Raton R Finger1
+    400186: Raton R Finger11
+    400188: Raton R Finger2
+    400190: Raton R Finger21
+    400192: Raton R Finger3
+    400194: Raton R Finger31
+    400196: Raton R Foot
+    400198: Raton R Forearm
+    400200: Raton R Hand
+    400202: Raton R Thigh
+    400204: Raton R Toe0
+    400206: Raton R UpperArm
+    400208: Raton Spine
+    400210: Raton Spine1
+    400212: Raton Tail
+    400214: Raton Tail1
+    400216: Raton Tail2
+    400218: Raton Tail3
+    400220: Raton_Bandouillere_1
+    400222: Raton_Bandouillere_2
+    400224: Raton_Chapeau
+    400226: Raton_Master
+    400228: Raton_Position
+    400230: Raton_Sac_1
+    400232: Raton_Sac_2
+    400234: Raton_LarmeA0
+    400236: Raton_LarmeA1
+    400238: Raton_LarmeA2
+    400240: Raton_LarmeB0
+    400242: Raton_LarmeB1
+    400244: Raton_LarmeB2
+    400246: Raton_LarmeOsM
+    400248: Raton_Larmes
+    400250: Raton_Marteau
+    400252: Raton_OsMarteau
+    400254: Raton_OBJMarteau
+    400256: Point001
+    2300000: Cylinder001
+    3300000: Cylinder001
+    4300000: Chibis
+    4300002: Cylinder001
+    4300004: Raton
+    4300006: Raton_Marteau
+    4300008: Raton_Larmes
+    4300010: Raton_OBJMarteau
+    7400000: Idle
+    7400002: Walk
+    7400004: Push
+    7400006: Dance
+    7400008: Shoot
+    7400010: Pull
+    7400012: Hold
+    7400014: Alignment
+    7400016: CryingA
+    7400018: CryingB
+    7400020: Hit
+    7400022: nullTake
+    7400024: Hello
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Chibis
+    13700002: Raton
+    13700004: Raton_Larmes
+    13700006: Raton_Marteau
+    13700008: Raton_OBJMarteau
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 21
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 86
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Push
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dance
+      takeName: Take 001
+      firstFrame: 155
+      lastFrame: 203
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      firstFrame: 208
+      lastFrame: 238
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pull
+      takeName: Take 001
+      firstFrame: 244
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hold
+      takeName: Take 001
+      firstFrame: 279
+      lastFrame: 339
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 344
+      lastFrame: 360
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CryingB
+      takeName: Take 001
+      firstFrame: 366
+      lastFrame: 396
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CryingA
+      takeName: Take 001
+      firstFrame: 401
+      lastFrame: 431
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton_OsMarteau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      - path: Raton_OBJMarteau
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hello
+      takeName: Take 001
+      firstFrame: 436
+      lastFrame: 496
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raton
+        weight: 1
+      - path: Raton_Master
+        weight: 1
+      - path: Raton_Master/Raton_Position
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton L
+          Thigh/Raton L Calf/Raton L Foot/Raton L Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton R
+          Thigh/Raton R Calf/Raton R Foot/Raton R Toe0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Machoire
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_DH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GB
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Chibis_Paupiere_GH
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton Head/Raton_Chapeau
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger0/Raton L Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger1/Raton L Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger2/Raton L Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton L Clavicle/Raton L UpperArm/Raton L Forearm/Raton L Hand/Raton
+          L Finger3/Raton L Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger0/Raton R Finger01
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger1/Raton R Finger11
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger2/Raton R Finger21
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton
+          Neck/Raton R Clavicle/Raton R UpperArm/Raton R Forearm/Raton R Hand/Raton
+          R Finger3/Raton R Finger31
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Spine1/Raton_Bandouillere_2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton Tail/Raton
+          Tail1/Raton Tail2/Raton Tail3
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1
+        weight: 1
+      - path: Raton_Master/Raton_Position/Raton 1/Raton Pelvis/Raton Spine/Raton_Sac_1/Raton_Sac_2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
