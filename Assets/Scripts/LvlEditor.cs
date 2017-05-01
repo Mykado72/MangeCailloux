@@ -255,15 +255,15 @@ public class LvlEditor : MonoBehaviour {
             return; // On ignore le clique
         }
 
-        if (caseClicked.isBorder && currentBrushType == 'F') {
+        if (caseClicked.isBorder && currentBrushType == 'F') {  // sortie
 
             foreach (EditeurCaseData c in cases) {
-                if (c.isBorder && c.type == 'F') {
+                if (c.isBorder && c.type == 'F') { 
                     c.SetType('1', true);
                 }
             }
 
-        } else if (currentBrushType == '2') {
+        } else if (currentBrushType == '2') {  // Chibi
 
             foreach (EditeurCaseData c in cases) {
                 if (c.type == '2') {
